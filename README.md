@@ -3,5 +3,5 @@ Happy Birthday
 A Happy Birthday animation design in CSS3, HTML5.
 
 
-URL: http://ayusharma.github.io/birthday/
-URL: vchrombie.github.io/hbd1
+[Link - 1](http://ayusharma.github.io/birthday/)
+[Link - 2](vchrombie.github.io/hbd1)
